@@ -1,0 +1,89 @@
+[CENTER][img]https://i.imgur.com/Rf4ovIV.png[/img]
+
+CarbonROM is an aftermarket firmware based on the Android Open Source Project. We are dedicated to fast, stable, and feature-filled ROMs, honesty and communication with our users, and openness with our code. We like frequent builds, with the very latest and greatest hardware support and fixes. We strive to not only provide you with the best ROM we can build, but also to give back to the Android community and our fellow developers. For us, this is about creating something we can be proud of and hope you will enjoy.
+
+[CODE]/*
+ * Your warranty is now void.
+ * 
+ * I am not responsible for bricked devices, dead SD cards,
+ * thermonuclear war, or you getting fired because the alarm app failed. Please
+ * do some research if you have any concerns about features included in this ROM
+ * before flashing it! YOU are choosing to make these modifications, and if
+ * you point the finger at me for messing up your device, I will laugh at you.
+ */[/CODE]
+
+[SIZE="3"][B]
+ Be respectful to each other and don't ask for ETAs, it's considered as being rude![/B][/SIZE]
+
+[img]https://i.imgur.com/82e4q2F.png[/img]
+
+While we make every effort to test these builds as much as possible, we are not responsible for anything that may happen to your device, family, pets, or perception of reality. We ask that you do your part to know your device and know how to recover from problems before you flash! These builds are experimental and can contain Bugs (as listed above). Make sure to do backups.
+
+[img]https://i.imgur.com/hglnWfJ.png[/img]
+
+We spend an astonishing amount of time developing this software. We can't spend much time on XDA as a result, so if you need support, please try the following:
+
+1) Search. Search, search, search. Yes, you. I don't care how unique or important your question is, it's very likely someone has addressed it already. Especially if you're even close to new at this.
+2) Read our FAQ, which can be found on our website. Carbon FAQ
+3) Ask a question in your device forum. Someone will no doubt try to help you. Warning: this help may come in the form of telling you it's a dumb question that has been asked before. See step 1 - such are the perils of asking questions when you haven't done the research yourself. Android is about helping yourself.
+4) Join our Discord server! There, you can connect with other Carbon users and our developers, and you can get quicker responses to your bug reports. The invite link is right below.
+5) Please keep bugreports to this thread or Discord. Do NOT create a Jira ticket. This is still in early development so we don't accept any bugreports yet.
+
+
+[B][SIZE="4"][COLOR="Black"][/COLOR][/SIZE][/B]
+
+
+[img]https://i.imgur.com/yqYwifx.png[/img]
+
+[SIZE="4"][B][U][COLOR="Black"]
+Download ROM here for your device![/COLOR][/U][/B][/SIZE]
+
+[color=navy][URL="https://sourceforge.net/projects/callixtus/files/Carbon//"][COLOR="Black"][SIZE="3"][B]Violet[/B][/SIZE][/COLOR] [/URL][/color]
+
+
+[img]https://i.imgur.com/sFfwke9.png[/img]
+
+[CODE][b]-We recommend Ofox Recovery
+1. Wipe data, system, dalvik, caches.
+2. Flash Firmware (Mostly latest)
+3. Flash the ROM file. (Gaaps Not Included)
+4. FCRYPT zip (optional)
+5. Reboot .
+6. Enjoy
+ [First boot will take a few minutes! Have patience]
+ Clean Flash is always recommended![/b][/CODE]
+
+
+
+
+[img]https://i.imgur.com/NEW8gCy.png[/img]
+
+
+If you want any bug to be fixed please write here on xda in detail. Give Logcats, mention your device name, mention if any mods and kernels, if used and please be specific about it. By helping us, you are helping yourself too.
+
+
+[img]https://i.imgur.com/rNQBHGW.png[/img]
+
+
+[SIZE="4"][B]
+Visit our [URL="https://carbonrom.org//"][COLOR="Black"]Website,[/COLOR][/URL]. Subscribe to our [URL="https://t.me/CarbonROM"][COLOR="Black"]Telegram Channel. [/COLOR][/URL]Also join our [URL="https://t.me/CarbonROMChat"][COLOR="Black"]Telegram Group Chat![/COLOR][/URL]
+Join our Violet Group
+[URL="https://t.me/VioletOfficialChat"][COLOR="Black"]Telegram Group Chat!. [/COLOR][/URL][/B][/SIZE]
+
+[img]https://i.imgur.com/2EwIRMY.png[/img]
+
+[SIZE="4"][B]Checkout this ROM!
+YOUR ATTACHMENTS COMES HERE FOR SCREENSHOTS[/B][/SIZE]
+
+
+[img]https://i.imgur.com/a8E9DuD.png[/img]
+
+[MENTION=3816568]Myself5[/MENTION]
+Big thanks to [MENTION=7571048]Dyneteve[/MENTION] &  [MENTION=6020447]merothh[/MENTION] & [MENTION=8898036]Venkatesh Siva[/MENTION] & everyone else in the Community for helping me,supporting me & testing the ROM!
+[/CENTER]
+
+
+
+
+[COLOR="black"][SIZE="4"]Kernel Source: [url]https://github.com/PixelExperience-Devices/kernel_xiaomi_sm6150[/url] [/COLOR][/SIZE]
+
